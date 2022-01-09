@@ -1,0 +1,41 @@
+{
+  "name": "social-media-dashboard-with-theme-switcher-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharon89065/Social-media-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharon89065/Social-media-dashboard/issues"
+  },
+  "homepage": "https://github.com/sharon89065/Social-media-dashboard#readme",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-load-plugins": "^2.0.7",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "autoprefixer": "^10.4.1",
+    "browser-sync": "^2.27.7",
+    "cssnano": "^5.0.14",
+    "dart-sass": "^1.25.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.0.0",
+    "gulp-terser": "^2.1.0",
+    "postcss": "^8.4.5",
+    "sass": "^1.45.1"
+  }
+}
