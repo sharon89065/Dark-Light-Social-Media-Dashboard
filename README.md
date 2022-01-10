@@ -55,4 +55,4 @@ gulp
 
 ## Live demo project
 
-- [GitHub Pages](https://sharon89065.github.io/Social-media-dashboard/)
+- [GitHub Pages](https://sharon89065.github.io/Dark-Light-Mode-Social-Media-Dashboard/)
